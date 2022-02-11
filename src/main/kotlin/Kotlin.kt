@@ -1,12 +1,12 @@
 fun main() {
 
-    var nams = arrayOf("JANE WAIGURU", "ANN MUMGAI", "RUTH WANJA", "SUM KIMANI", "KIM KANYE" )
+    var names = arrayOf("JANE WAIGURU", "ANN MUMGAI", "RUTH WANJA", "SUM KIMANI", "KIM KANYE" )
     var age = arrayOf( "23", "19", "20", "34", "67")
     var pnumber = arrayOf("0734254356", "074675487", "07454679897", "0786879878")
     var weight = arrayOf("45.4kg", "56.3kg", "67kg", "40kg")
 
 //    First student record...
-    println(nams[0])
+    println(names[0])
     println(age[0])
     println(pnumber[0])
     println(weight[0])
@@ -20,7 +20,7 @@ fun main() {
 
 
 //    Second student record....
-    println(nams[1])
+    println(names[1])
     println(age[1])
     println(pnumber[1])
     println(weight[1])
@@ -35,7 +35,7 @@ fun main() {
     }
 
     //    Third student record....
-    println(nams[2])
+    println(names[2])
     println(age[2])
     println(pnumber[2])
     println(weight[2])
@@ -49,7 +49,7 @@ fun main() {
         println("not kenyan")
     }
     //    Fourth student record....
-    println(nams[3])
+    println(names[3])
     println(age[3])
     println(pnumber[3])
     println(weight[3])
